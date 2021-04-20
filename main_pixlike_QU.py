@@ -1,5 +1,5 @@
-# Copyright (C) 2016 Steven Gratton
-# adapted RdB
+# Copyright (C) 2016 Steven Gratton 
+# Copyright (C) 2021 Roger de Belsunce
 # test-hacking to go from EB to TE...
 #
 from numpy import *
