@@ -8,7 +8,7 @@ this code can compute the following:
 - accurate noise and signal covariance, fisher and error matrices for the QML estimator
 - a pixel-based temperature-polarisation likelihood 
 - a likelihood-approximation scheme using the QML estimates and the noise covariance matrix
-- this code has been integrated into Cobaya (https://github.com/CobayaSampler/cobaya) and can be obtained upon request
+- this code has been integrated into Cobaya (https://github.com/CobayaSampler/cobaya) and the module is available as MyLikelihood.py
 
 This code is under active development and, hence, many things are still changing. Please use with care. Do not hesitate to send me an e-mail with questions. 
 
