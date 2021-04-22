@@ -2,6 +2,10 @@
 
 Code used in de Belsunce et al. (2021) to compute likelihood approximations to recover the optical depth to reionization. The signal is heavily noise and systematics dominated and, hence, a robust and accurate likelihood is required. 
 
+We compared this method to two likelihood-approximation schemes:
+1. Simulation-based likelihood (SimBaL)
+2. Density-estimation likelihood-free inference (DELFI) which is a generalisation of SimBaL, instead of using a fixed functional form to describe the distribution of spectra, we use a neural network-based approach to fit the distribution of spectra using an ensemble of functions, here of Gaussians. 
+
 ## code
 this code can compute the following: 
 - quadratic maximum likelihood (QML) power spectrum estimates of given input CMB maps
