@@ -17,5 +17,5 @@ this code can compute the following:
 This code is under active development and, hence, many things are still changing. Please use with care. Do not hesitate to send me an e-mail with questions. 
 
 ## citation 
-For details regarding implementation please have a look at [the paper](https://arxiv.org/pdf/2103.14378.pdf) and the general method was introduced in [Gratton (2017)](https://arxiv.org/abs/1708.08479) and cite both papers if you use any parts of this code. 
+For details regarding implementation please have a look at the paper [(de Belsunce et al. (2021))](https://arxiv.org/pdf/2103.14378.pdf) and the general method was introduced in [Gratton (2017)](https://arxiv.org/abs/1708.08479) and cite both papers if you use any parts of this code. 
 
